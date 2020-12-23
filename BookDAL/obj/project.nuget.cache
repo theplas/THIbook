@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PU383EoTE6V+m4f2vgvb9G4fLqARnMKe1ma8Wz8SbPcRcVqA/qOGQEvEku0gXbT57T9ncs0dYCkrQ7a3yfj4rQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\source\\repos\\BookAPI\\BookDAL\\BookDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

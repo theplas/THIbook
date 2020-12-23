@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "slaOhTK0DRAakvCtgXEdTyVRAWNbQbSttZOL6iY4KlWShwYnuLnQ+Ufbr6mZwS6hK97JsEv7Bkla8SVvU46tgA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\asus\\source\\repos\\BookAPI\\BookBAL.Interface\\BookBAL.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project BookAPI is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project BookAPI supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "BookAPI",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
